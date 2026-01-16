@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC131
+#  Project Project 6: Photo Manager
+
+courseName=CMSC131
+semester=202408
+projectNumber=Project 6
+courseKey=6b6c0e59ede5a293
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/fall2024
+submitURL=https://submit.cs.umd.edu:443/fall2024/eclipse/SubmitProjectViaEclipse
