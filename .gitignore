@@ -1,0 +1,7 @@
+.settings/
+.submit
+.submitUser
+.DS_Store
+bin/
+.classpath
+.project
